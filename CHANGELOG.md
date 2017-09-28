@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.1.1
+Released on 28.09.2017
+
+- add fix for [`jquery-migrate` 3.0.1](https://github.com/jquery/jquery-migrate/issues/273)
+- add dependecy:
+    - imports-loader ~0.7.1
+
 ### 1.1.0
 Released on 30.05.2017
 
