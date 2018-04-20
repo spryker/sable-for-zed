@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@spryker/oryx@^1.1.0":
+"@spryker/oryx@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@spryker/oryx/-/oryx-1.2.0.tgz#3ebc561de8b4e2bb2de27b7016f568799bb27987"
   dependencies:

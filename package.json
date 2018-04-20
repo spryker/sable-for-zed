@@ -18,7 +18,7 @@
     "npm": ">=5.6.0"
   },
   "dependencies": {
-    "@spryker/oryx": "^1.1.0",
+    "@spryker/oryx": "^1.2.0",
     "autoprefixer": "~8.3.0",
     "core-js": "~2.5.5",
     "css-loader": "~0.28.10",
