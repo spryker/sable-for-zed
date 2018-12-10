@@ -1,5 +1,24 @@
 # Changelog
 
+### 2.2.0
+Released on 10.12.2018
+
+- update dependencies
+	- @spryker/oryx 1.2.0 > 1.3.0
+	- node-sass 4.8.3 > 4.10.0
+	- webpack 4.6.0 > 4.27.0
+
+### 2.1.0
+Released on 20.04.2018
+
+- update dependencies
+	- @spryker/oryx 1.1.0 > 1.2.0
+
+### 2.0.0  
+Released on 20.04.2018
+
+Update the tool and make it working with webpack 4. Configuration and all dependencies are updated accordingly. See `package.json` for more details.
+
 ### 1.1.1
 Released on 28.09.2017
 
