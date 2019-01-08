@@ -6,4 +6,4 @@ const configurationPromise = api.getConfiguration(api.settings);
 
 configurationPromise
     .then(configuration => oryx.build(configuration))
-    .catch(error => console.error('An error occur while creating configuration', error));
+    .catch(error => console.error('An error occurred while creating configuration', error));
