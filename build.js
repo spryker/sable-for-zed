@@ -2,6 +2,7 @@
 
 const oryx = require('@spryker/oryx');
 const api = require('./lib');
-const configuration = api.getConfiguration(api.settings);
 
-oryx.build(configuration);
+api.getConfiguration(api.settings)
+    .then(configuration => oryx.build(configuration))
+    .catch(error => console.error('An error occurred while creating configuration', error));
