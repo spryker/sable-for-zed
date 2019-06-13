@@ -1,5 +1,14 @@
 # Changelog
 
+### 2.3.0
+Released on 13.06.2019
+
+Extend configuration to search entry points in spryker-eco namespace.
+
+Update dependencies:
+- `css-loader`: `0.28.10` => `2.1.1`
+- `optimize-css-assets-webpack-plugin`: `4.0.0` => `5.0.1`
+
 ### 2.2.0
 Released on 10.12.2018
 
