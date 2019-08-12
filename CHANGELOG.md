@@ -1,5 +1,8 @@
 # Changelog
 
+### 2.4.1
+Updated patch version due to wrong release.
+
 ### 2.4.0
 Released on 12.09.2019
 
