@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.4.0
+Released on 12.09.2019
+
+Updated dependency:
+- `yargs`: `11.0.0` => `13.3.0`
+
 ### 2.3.0
 Released on 13.06.2019
 
