@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.5.0
+Released on 23.10.2019
+
+Fixed duplicated slash in fonts and images path.  
+
+Updated dependency:
+- `@spryker/oryx`: `1.3.0` => `1.4.0`
+
 ### 2.4.1
 Updated patch version due to wrong release.
 
