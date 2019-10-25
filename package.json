@@ -18,7 +18,7 @@
     "npm": ">=5.6.0"
   },
   "dependencies": {
-    "@spryker/oryx": "^1.4.0",
+    "@spryker/oryx": "spryker/oryx#feature/mp-1172-investigate-zed-compiling-with-stencil-components",
     "autoprefixer": "~8.3.0",
     "core-js": "~2.5.5",
     "css-loader": "~2.1.1",
