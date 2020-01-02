@@ -1,5 +1,10 @@
 # Changelog
 
+### 2.5.2
+Released on 26.12.2019
+
+Updated package-lock.json.
+
 ### 2.5.1
 Released on 24.10.2019
 
