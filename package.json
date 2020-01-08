@@ -25,7 +25,7 @@
     "es6-promise": "~4.0.5",
     "eslint": "^6.8.0",
     "file-loader": "~1.1.11",
-    "glob": "^7.1.6",
+    "globby": "^11.0.0",
     "imports-loader": "~0.8.0",
     "mini-css-extract-plugin": "~0.4.0",
     "node-sass": "~4.10.0",
