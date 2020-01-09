@@ -16,8 +16,4 @@ module.exports = {
     "parserOptions": {
         "ecmaVersion": 2018
     },
-    // define the rules to override default rules list
-    "rules": {
-
-    },
 };
