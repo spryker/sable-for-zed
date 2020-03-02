@@ -45,7 +45,6 @@ module.exports = {
         "comma-spacing": ["error", { "before": false, "after": true }],
         "comma-style": ["error", "last"],
         "constructor-super": "error",
-        "curly": ["error"],
         "dot-location": ["error", "property"],
         "eol-last": ["error", "always"],
         "eqeqeq": ["error", "always", { "null": "ignore" }],
