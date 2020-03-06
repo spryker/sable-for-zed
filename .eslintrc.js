@@ -27,7 +27,6 @@ module.exports = {
     // define the rules to override default rules list
     "rules": {
         "accessor-pairs": "error",
-        "arrow-spacing": ["error", { "before": true, "after": true }],
         "block-spacing": ["error", "always"],
         "brace-style": ["error"],
         "camelcase": ["error", { "properties": "always" }],
