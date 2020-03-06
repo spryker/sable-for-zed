@@ -147,7 +147,6 @@ module.exports = {
         }],
         "no-useless-call": "error",
         "no-useless-escape": "error",
-        "no-useless-rename": "error",
         "no-useless-return": "error",
         "no-whitespace-before-property": "error",
         "no-with": "error",
