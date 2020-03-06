@@ -172,7 +172,6 @@ module.exports = {
             "avoidEscape": true,
             "allowTemplateLiterals": true
         }],
-        "rest-spread-spacing": ["error", "never"],
         "semi": ["error", "always"],
         "semi-spacing": ["error", {
             "before": false,
