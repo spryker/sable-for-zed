@@ -44,7 +44,7 @@ module.exports = {
         "eqeqeq": ["error", "always", { "null": "ignore" }],
         "func-call-spacing": ["error", "never"],
         "handle-callback-err": ["error", "^(err|error)$" ],
-        "indent": ["error", 4],
+        "indent": ["error", 4, { "SwitchCase": 1 }],
         "key-spacing": ["error", {
             "beforeColon": false,
             "afterColon": true,
