@@ -195,7 +195,6 @@ module.exports = {
                 "exceptions": ["*"]
             }
         }],
-        "symbol-description": "error",
         "template-curly-spacing": ["error", "never"],
         "template-tag-spacing": ["error", "never"],
         "unicode-bom": ["error", "never"],
