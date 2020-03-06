@@ -146,7 +146,6 @@ module.exports = {
             "variables": false
         }],
         "no-useless-call": "error",
-        "no-useless-constructor": "error",
         "no-useless-escape": "error",
         "no-useless-rename": "error",
         "no-useless-return": "error",
