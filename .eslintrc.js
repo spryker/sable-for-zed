@@ -61,7 +61,6 @@ module.exports = {
         "new-parens": "error",
         "no-array-constructor": "error",
         "no-caller": "error",
-        "no-class-assign": "error",
         "no-compare-neg-zero": "error",
         "no-cond-assign": ["error", "always"],
         "no-const-assign": "error",
