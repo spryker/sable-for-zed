@@ -24,9 +24,6 @@ module.exports = {
         "swal": "readonly",
         "DEV": "readonly"
     },
-    "parserOptions": {
-        "ecmaVersion": 2018
-    },
     // define the rules to override default rules list
     "rules": {
         "accessor-pairs": "error",
