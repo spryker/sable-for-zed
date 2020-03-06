@@ -63,7 +63,6 @@ module.exports = {
         "no-caller": "error",
         "no-compare-neg-zero": "error",
         "no-cond-assign": ["error", "always"],
-        "no-const-assign": "error",
         "no-constant-condition": ["error", { "checkLoops": false }],
         "no-control-regex": "error",
         "no-debugger": "error",
