@@ -75,7 +75,7 @@ module.exports = {
         "no-eval": "error",
         "no-ex-assign": "error",
         "no-extra-bind": "error",
-        "no-extra-boolean-cast": "error",
+        "no-extra-boolean-cast": "off",
         "no-extra-parens": ["error", "functions"],
         "no-fallthrough": "error",
         "no-floating-decimal": "error",
