@@ -103,7 +103,6 @@ module.exports = {
         "no-new-func": "error",
         "no-new-object": "error",
         "no-new-require": "error",
-        "no-new-symbol": "error",
         "no-new-wrappers": "error",
         "no-obj-calls": "error",
         "no-octal": "error",
