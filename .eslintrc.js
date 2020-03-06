@@ -21,7 +21,6 @@ module.exports = {
         "antelope": "readonly",
         "Event": "readonly",
         "CustomEvent": "readonly",
-        "Image": "readonly",
         "swal": "readonly",
         "DEV": "readonly"
     },
