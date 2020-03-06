@@ -43,7 +43,6 @@ module.exports = {
         "eol-last": ["error", "always"],
         "eqeqeq": ["error", "always", { "null": "ignore" }],
         "func-call-spacing": ["error", "never"],
-        "generator-star-spacing": ["error", { "before": false, "after": true }],
         "handle-callback-err": ["error", "^(err|error)$" ],
         "indent": ["error", 4],
         "key-spacing": ["error", {
