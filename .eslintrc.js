@@ -195,7 +195,6 @@ module.exports = {
                 "exceptions": ["*"]
             }
         }],
-        "template-curly-spacing": ["error", "never"],
         "template-tag-spacing": ["error", "never"],
         "unicode-bom": ["error", "never"],
         "use-isnan": "error",
