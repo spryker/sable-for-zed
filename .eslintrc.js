@@ -138,7 +138,7 @@ module.exports = {
         }],
         "no-unused-vars": ["error", {
             "vars": "all",
-            "args": "all"
+            "args": "after-used"
         }],
         "no-use-before-define": ["error", {
             "functions": false,
