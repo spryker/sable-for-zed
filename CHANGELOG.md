@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.5.3
+Released on 27.10.2020
+
+Updated dependency:
+- `node-sass`: `4.10.0` => `4.13.0`
+
 ### 2.5.2
 Released on 26.12.2019
 
