@@ -1,5 +1,19 @@
 # Changelog
 
+### 2.6.0
+Released on 20.07.2020
+
+Added tslint and stylelint configurations.
+
+Updated dependency:
+- `node-sass`: `4.13.0` => `4.14.1`
+
+Added dependencies:
+- `eslint`
+- `globby`
+- `stylelint`
+
+
 ### 2.5.3
 Released on 27.10.2020
 
