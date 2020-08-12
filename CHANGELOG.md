@@ -1,5 +1,15 @@
 # Changelog
 
+### 2.7.0
+Released on 12.08.2020
+
+Updated node.js and npm constraints.
+
+Updated dependency:
+- `node`: `8.9.0` => `12.0.0`
+- `npm`: `5.6.0` => `6.9.0`
+
+
 ### 2.6.0
 Released on 20.07.2020
 
