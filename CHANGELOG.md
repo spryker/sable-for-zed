@@ -1,5 +1,15 @@
 # Changelog
 
+### 2.8.0
+Released on 22.09.2020
+
+Updated stylelint dependency.
+Replaced deprecated `uglifyjs-webpack-plugin` with `terser-webpack-plugin` dependency. 
+
+Updated dependency:
+- `stylelint`: `12.0.1` => `13.7.1`
+
+
 ### 2.7.0
 Released on 12.08.2020
 
