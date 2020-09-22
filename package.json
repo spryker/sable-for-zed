@@ -14,8 +14,8 @@
   "license": "MIT",
   "main": "index.js",
   "engines": {
-    "node": ">=12.18.2",
-    "npm": ">=6.14.5"
+    "node": ">=12.0.0",
+    "npm": ">=6.9.0"
   },
   "dependencies": {
     "@spryker/oryx": "^1.4.0",
