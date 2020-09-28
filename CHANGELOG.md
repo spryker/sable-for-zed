@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.1
+Released on 28.09.2020
+
+Fixed path pattern for eco modules.  
+
+
 ### 2.8.0
 Released on 22.09.2020
 
