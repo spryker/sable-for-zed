@@ -18,8 +18,11 @@
     "npm": ">=6.9.0"
   },
   "dependencies": {
+    "@babel/core": "~7.12.3",
+    "@babel/preset-env": "~7.12.1",
     "@spryker/oryx": "^1.4.0",
     "autoprefixer": "~8.3.0",
+    "babel-loader": "~8.1.0",
     "core-js": "~2.5.5",
     "css-loader": "~2.1.1",
     "es6-promise": "~4.0.5",
@@ -36,7 +39,7 @@
     "style-loader": "~0.21.0",
     "stylelint": "~13.7.1",
     "terser-webpack-plugin": "~4.2.2",
-    "webpack": "~4.27.0",
+    "webpack": "~4.27.1",
     "yargs": "~13.3.0"
   }
 }
