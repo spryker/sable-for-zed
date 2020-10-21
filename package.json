@@ -31,12 +31,14 @@
     "node-sass": "~4.14.1",
     "optimize-css-assets-webpack-plugin": "~5.0.1",
     "postcss-loader": "~2.1.4",
-    "resolve-url-loader": "~2.3.0",
     "sass-loader": "~7.0.1",
     "style-loader": "~0.21.0",
     "stylelint": "~13.7.1",
     "terser-webpack-plugin": "~4.2.2",
     "webpack": "~4.27.0",
     "yargs": "~13.3.0"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^3.1.2"
   }
 }
