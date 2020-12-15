@@ -1,5 +1,14 @@
 # Changelog
 
+### 2.9.0
+Released on 15.12.2020
+
+- Removed `stylelint` and `eslint` dependencies.
+- Introduced `babel-loader` into the webpack builder.
+- Added following dependencies: `@babel/core`, `@babel/preset-env`, `babel-loader`.
+- Updated dependency `resolve-url-loader` 2.3.0 -> 3.1.2.
+
+
 ### 2.8.0
 Released on 22.09.2020
 
