@@ -9,6 +9,12 @@ Released on 15.12.2020
 - Updated dependency `resolve-url-loader` 2.3.0 -> 3.1.2.
 
 
+### 2.8.1
+Released on 28.09.2020
+
+Fixed path pattern for eco modules.  
+
+
 ### 2.8.0
 Released on 22.09.2020
 
