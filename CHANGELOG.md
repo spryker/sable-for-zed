@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.9.1
+Released on 11.01.2021
+
+- Downgraded `resolve-url-loader` 3.1.2 -> 2.3.2 to prevent build fail.
+
+
+
 ### 2.9.0
 Released on 15.12.2020
 
