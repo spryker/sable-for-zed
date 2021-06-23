@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.10.1
+Released on 23.06.2021
+
+- Fixed wrong release.
+
+
 ### 2.10.0
 Released on 23.06.2021
 
