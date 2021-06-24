@@ -1,6 +1,12 @@
 # Changelog
 
 ### 2.10.1
+Released on 24.06.2021
+
+- Changed destination folder for built assets according to new application endpoint name.
+
+
+### 2.10.1
 Released on 23.06.2021
 
 - Fixed wrong release.
