@@ -1,10 +1,27 @@
 # Changelog
 
+### 2.10.1
+Released on 24.06.2021
+
+- Changed destination folder for built assets according to new application endpoint name.
+
+
+### 2.10.1
+Released on 23.06.2021
+
+- Fixed wrong release.
+
+
+### 2.10.0
+Released on 23.06.2021
+
+- Added an ability to gather entry-points from spryker-sdk namespace.  
+
+
 ### 2.9.1
 Released on 11.01.2021
 
 - Downgraded `resolve-url-loader` 3.1.2 -> 2.3.2 to prevent build fail.
-
 
 
 ### 2.9.0
