@@ -1,6 +1,12 @@
 # Changelog
 
-### 2.10.1
+### 2.11.1
+Released on 07.07.2021
+
+- Added missing dependency: `fs-extra`.
+
+
+### 2.11.0
 Released on 24.06.2021
 
 - Changed destination folder for built assets according to new application endpoint name.
